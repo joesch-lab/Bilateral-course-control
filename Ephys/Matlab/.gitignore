@@ -1,0 +1,10 @@
+# exclude all .asv files
+*.asv
+
+# exclude all .mat files
+*.mat
+*.png
+*.avi
+*.zip
+
+*.idea/
